@@ -4,6 +4,8 @@ function volume_sphere() {
     
     let radiusInput = document.getElementById('radius').value;
     let volumeOutput = document.getElementById('volume');
+
+	 let radius = parseFloat(radiusInput);
   
 } 
 
